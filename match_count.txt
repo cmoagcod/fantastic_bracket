@@ -1,0 +1,8 @@
+Soit f(x) le nombre de matchs d'un bracket à simple élimination et x un entier naturel correspondant au nombre de joueurs:
+f(x) = x-1
+
+Soit f(x) le nombre de matchs d'un bracket à double élimination sans grande finale reset et x un entier naturel correspondant au nombre de joueurs:
+f(x) = 2x-2
+
+Soit f(x) le nombre de matchs d'un bracket à double élimination avec grande finale reset et x un entier naturel correspondant au nombre de joueurs:
+f(x) = 2x-1
